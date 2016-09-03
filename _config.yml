@@ -1,19 +1,4 @@
-name: Jaiman
-favicon: null
-layout_spectrum: 0.5111366310156882
 typography_spectrum: 0.024462364614009857
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -25,4 +10,20 @@ color:
   lightness: 0.2782967519015074
   saturation: 0.2165200507733971
   rhythmicContrast: 0.30924094654619694
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5111366310156882
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Jaiman
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: J
 purpose: []
